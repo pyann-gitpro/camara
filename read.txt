@@ -1,0 +1,16 @@
+Contraintes générales pour tous les projets :
+
+OK Environnement virtuel (venv) : Tous les projets doivent être développés dans un environnement virtuel pour isoler les dépendances.
+OK Fichier requirements.txt : Un fichier requirements.txt doit lister toutes les dépendances du projet.
+OK Fichier README.md : Un fichier README.md doit décrire le projet, son utilisation et les instructions d'installation.
+Tests unitaires : Des tests unitaires doivent être écrits pour les fonctions principales du projet.
+Logging : Utiliser la bibliothèque logging ou logger pour enregistrer les événements et les erreurs.
+Interface utilisateur Gradio : Utiliser Gradio pour créer l'interface utilisateur interactive.
+
+__________________________________________________________________
+Installation des dépendances (Lourd pour LENOVO) -- OK
+Génération requirements.txt -- OK
+Add notebooks file -- OK
+Add ipynb files (main, webcam_test) -- OK but, main still on dev 
+Add ibit_test file (webcam_test) -- test OK
+Add model file (resnet or more...)
