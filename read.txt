@@ -13,4 +13,6 @@ Génération requirements.txt -- OK
 Add notebooks file -- OK
 Add ipynb files (main, webcam_test) -- OK but, main still on dev 
 Add ibit_test file (webcam_test) -- test OK
-Add model file (resnet or more...)
+Add model file (resnet or more...) OK
+__________________________________________________________________
+test analyse image ave Yolo8s et resnet, resnet est mieux que Yolo mais peut-être une config specifique à faire dans Yolo
